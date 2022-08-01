@@ -1,0 +1,3 @@
+ip: 82.157.5.28
+port: 50804
+protocol: tcp
