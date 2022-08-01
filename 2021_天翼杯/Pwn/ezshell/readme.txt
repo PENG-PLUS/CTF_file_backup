@@ -1,0 +1,1 @@
+path of flag is "./flag"
