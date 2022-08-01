@@ -1,0 +1,1 @@
+scanf：int __isoc99_scanf(const char *, ...)
