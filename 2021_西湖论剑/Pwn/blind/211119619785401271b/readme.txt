@@ -1,0 +1,1 @@
+Don't try to guess the libc version or Brute-force attack.Believe me, there will be no results,but there is a general way to solve it.
