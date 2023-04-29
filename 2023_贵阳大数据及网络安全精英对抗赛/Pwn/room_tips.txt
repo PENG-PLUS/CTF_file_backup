@@ -1,0 +1,2 @@
+
+1.劫持stderr来进行IO_FILE_ATTACK
